@@ -18,8 +18,7 @@ setText((prev)=>prev + e.emoji);
           <div className="text">
             <span>mariam</span>
             <p>
-              Lorem ipsum dolor sit amet, consectetur incidunt placeat qui
-              tenetur fuga, reprehenderit adipisci{" "}
+              Lorem ipsum dolor sit amet,
             </p>
           </div>
         </div>
